@@ -2,5 +2,5 @@
 
 (In Progress) Explore detailed documentation inside
 <br>
-[Queue management system](https://github.com/usamaElsharkawi/queue-managment-system)
-[Zustand practice project](https://github.com/usamaElsharkawi/zustand-practice-project)
+* [Queue management system](https://github.com/usamaElsharkawi/queue-managment-system)
+* [Zustand practice project](https://github.com/usamaElsharkawi/zustand-practice-project)
