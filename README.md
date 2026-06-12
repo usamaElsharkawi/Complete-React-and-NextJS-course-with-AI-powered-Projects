@@ -5,3 +5,4 @@
 * [Queue management system](https://github.com/usamaElsharkawi/queue-managment-system)
 * [Zustand practice project](https://github.com/usamaElsharkawi/zustand-practice-project)
 * [Understanding NextJS](https://github.com/usamaElsharkawi/understanding-nextjs)
+* [Notes App Mini Project](https://github.com/usamaElsharkawi/notes-app-mini-project)
