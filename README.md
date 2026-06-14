@@ -6,3 +6,4 @@
 * [Zustand practice project](https://github.com/usamaElsharkawi/zustand-practice-project)
 * [Understanding NextJS](https://github.com/usamaElsharkawi/understanding-nextjs)
 * [Notes App Mini Project](https://github.com/usamaElsharkawi/notes-app-mini-project)
+* [Module 6 (Core functions and hooks in Nextjs)](https://github.com/usamaElsharkawi/Module-6-Nextjs-core-functions-and-hook)
