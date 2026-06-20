@@ -7,3 +7,4 @@
 * [Understanding NextJS](https://github.com/usamaElsharkawi/understanding-nextjs)
 * [Notes App Mini Project](https://github.com/usamaElsharkawi/notes-app-mini-project)
 * [Module 6 (Core functions and hooks in Nextjs)](https://github.com/usamaElsharkawi/Module-6-Nextjs-core-functions-and-hook)
+* [Module 7 (Server actions and app optimizations)](https://github.com/usamaElsharkawi/module-7-server-actions-app-optimization)
