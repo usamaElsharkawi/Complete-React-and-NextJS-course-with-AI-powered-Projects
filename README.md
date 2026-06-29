@@ -10,3 +10,4 @@
 * [Module 7 (Server actions and app optimizations)](https://github.com/usamaElsharkawi/module-7-server-actions-app-optimization)
 * [Module 8 (Middleware,Metadata and SEO)](https://github.com/usamaElsharkawi/module_8-middleware-metadata-and-seo)
 * [To-do application](https://github.com/usamaElsharkawi/todo-application)
+* [Leetcode Clone](https://github.com/usamaElsharkawi/leetcode-clone)
